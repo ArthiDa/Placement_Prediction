@@ -1,4 +1,4 @@
-# Placement_Prediction using Logistic Regression and Decision Tree Classifier
+# Placement Prediction using Logistic Regression and Decision Tree Classifier
 
 ## Reference
  - [campusx](https://youtu.be/dr7z7a_8lQw)
